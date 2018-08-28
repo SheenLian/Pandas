@@ -1,2 +1,2 @@
 # Pandas
-Pandas basics
+Pandas basics in Jupyternotebook
